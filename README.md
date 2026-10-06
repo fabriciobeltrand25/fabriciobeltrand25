@@ -20,16 +20,15 @@
 <!-- ============ SOBRE MÍ ============ -->
 ## 👨‍💻 Sobre mí
 
-```js
-const fabricio = {
-  rol: ["Web Developer", "Backend Developer", "Roblox Developer"],
-  estudios: "Ingeniería en Sistemas — UTH",
-  pais: "Honduras 🇭🇳",
-  enfoque: "Desarrollo web, backend, bases de datos y videojuegos",
-  aprendiendo: ["TypeScript", "C#", "Next.js"],
-  abiertoA: "Proyectos, colaboraciones y oportunidades 🤝",
-};
-```
+
+ - Rol: ["Web Developer", "Backend Developer", "Roblox Developer"],
+-  Estudios: "Ingeniería en Sistemas — UTH",
+-  Pais: "Honduras 🇭🇳",
+ - Enfoque: "Desarrollo web, backend, bases de datos y videojuegos",
+ - Aprendiendo: ["TypeScript", "C#", "Next.js"],
+ - AbiertoA: "Proyectos, colaboraciones y oportunidades 🤝",
+
+*************************************************************************
 
 - 🔭 Construyo aplicaciones web, móviles y de datos de principio a fin.
 - 🌱 Ahora mismo estudio **TypeScript**, **C#** y **Next.js**.
