@@ -21,12 +21,12 @@
 ## 👨‍💻 Sobre mí
 
 
- - Rol: ["Web Developer", "Backend Developer", "Roblox Developer"],
--  Estudios: "Ingeniería en Sistemas — UTH",
--  Pais: "Honduras 🇭🇳",
- - Enfoque: "Desarrollo web, backend, bases de datos y videojuegos",
- - Aprendiendo: ["TypeScript", "C#", "Next.js"],
- - AbiertoA: "Proyectos, colaboraciones y oportunidades 🤝",
+ - Rol: Web Developer, Backend Developer, Roblox Developer
+-  Estudios: Ingeniería en Sistemas — UTH
+-  Pais: Honduras
+ - Enfoque: Desarrollo web, backend, bases de datos y videojuegos
+ - Aprendiendo: TypeScript, C#, Next.js"
+ - AbiertoA: Proyectos, colaboraciones y oportunidades 🤝
 
 *************************************************************************
 
@@ -82,7 +82,8 @@
 
 <br/>
 
-<!-- ============ GRÁFICA DE ACTIVIDAD ============ -->
+<!-- >
+
 ## 📈 Gráfica de actividad
 
 <div align="center">
@@ -90,7 +91,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabriciobeltrand25&bg_color=0a0e1a&color=10b981&line=10b981&point=ffffff&area=true&area_color=10b981&hide_border=true&title_color=10b981&radius=10" alt="activity graph" width="100%"/>
 
 </div>
-
+============ GRÁFICA DE ACTIVIDAD ============ --
 <br/>
 
 <!-- ============ PROYECTOS ============ -->
@@ -107,7 +108,7 @@
 
 </div>
 
-> 💡 Mira todos mis proyectos en mi [portafolio web](https://TU-PORTAFOLIO.com) o en mis [repositorios](https://github.com/fabriciobeltrand25?tab=repositories).
+> 💡 Mira todos mis proyectos en mi [portafolio web]([https://TU-PORTAFOLIO.com](https://github.com/fabriciobeltrand25/Portafolio_Antony)) o en mis [repositorios](https://github.com/fabriciobeltrand25?tab=repositories).
 
 <br/>
 
@@ -116,11 +117,9 @@
 
 <div align="center">
 
-<a href="https://TU-PORTAFOLIO.com"><img src="https://img.shields.io/badge/Portafolio-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portafolio"/></a>
-<a href="mailto:TU-CORREO@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="https://github.com/fabriciobeltrand25/Portafolio_Antony"><img src="https://img.shields.io/badge/Portafolio-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portafolio"/></a>
+<a href="fabriciobeltrand25@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://wa.me/504XXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/></a>
-
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3b82f6,50:10b981,100:0a0e1a&section=footer" alt="footer" width="100%"/>
